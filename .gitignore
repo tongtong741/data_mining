@@ -1,0 +1,11 @@
+*.zip
+.idea/
+.vscode/
+*.iml
+*.log
+*.tmp
+*.zip
+node_modules/
+dist/
+# 忽略所有庞大的数据文件和压缩包
+data/
